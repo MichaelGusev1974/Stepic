@@ -20,3 +20,4 @@ for i in range(a, b + 1):
             counter += 1
     if counter == 2:
         print(i)
+
